@@ -9,6 +9,8 @@ These are all text files along with details (bot name, tags, original creator, e
 
 Replace all mentions of "IllRuse" with "{{user}}"
 
+Planning on programming a Python bot to automate the extraction process with a single command, then possibly release the source code of that program so people can do it themselves.
+
 Additionally, fuck OpenAI
 
 - illruse
