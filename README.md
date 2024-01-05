@@ -7,6 +7,8 @@ Format for files is as follows:
 
 These are all text files along with details (bot name, tags, original creator, etc.)
 
+Replace all mentions of "IllRuse" with "{{user}}"
+
 Additionally, fuck OpenAI
 
 - illruse
