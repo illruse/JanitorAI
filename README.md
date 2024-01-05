@@ -5,6 +5,8 @@ Format for files is as follows:
 
 "BOT NAME_BOT CREATOR"
 
+Paid requests will be marked as "[PAID]"
+
 These are all text files along with details (bot name, tags, original creator, etc.)
 
 Replace all mentions of "IllRuse" with "{{user}}", and the character name with "{{char}}", excluding quotations
