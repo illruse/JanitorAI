@@ -1,7 +1,7 @@
 # JanitorAI
 Hidden Character Definitions, Scenarios, and Example Dialogs of many bots, compiled together to be able to clone and edit bots easily.
 
-DISCLAIMER: This is a personal repository and I am not responsible for the people who clone it. Thanks!
+DISCLAIMER: This is a personal repository meant for archiving bots, and I am not responsible for the people who clone it. Thanks!
 
 Format for files is as follows:
 
